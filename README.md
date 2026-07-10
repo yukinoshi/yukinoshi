@@ -8,6 +8,12 @@ Full Stack Developer | Vue.js · React · Node.js · AI Agent
 Building modern web applications and AI-powered products.
 </p>
 
+<p align="center">
+  <a href="https://github.com/voidzero-dev/vite-plus/pull/2114">
+    <img src="https://img.shields.io/badge/VitePlus-PR%20Merged-7C3AED?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
