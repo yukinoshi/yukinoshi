@@ -41,6 +41,7 @@ Building modern web applications and AI-powered products.
 ### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Koa](https://img.shields.io/badge/Koa-33333D?style=for-the-badge&logo=koa&logoColor=white)
 ![Egg.js](https://img.shields.io/badge/Egg.js-FFD700?style=for-the-badge)
