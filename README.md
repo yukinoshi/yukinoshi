@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zou Li, also can say yukino</h1>
 
 <h3 align="center">
-Full Stack Developer | Vue.js · React · Node.js · AI Agent
+Full Stack Developer | Vue.js · React · Node.js · Python · AI Agent
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@ Building modern web applications and AI-powered products.
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer focused on **Vue.js**, **React**, and **Node.js**
+- 💻 Full Stack Developer focused on **Vue.js**, **React**, **Node.js**, and **Python**
 - 🤖 Building AI applications with **LLMs**, **LangChain**, **LangGraph**, and **MCP**
 - 🌱 Currently exploring **AI Engineering & Agent Development**
 - 🔥 Open Source Contributor in the **Vite Ecosystem**
